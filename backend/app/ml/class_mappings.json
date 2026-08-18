@@ -1,0 +1,371 @@
+{
+  "classes": {
+    "Tomato___Early_blight": {
+      "crop": "Tomato",
+      "crop_ml": "തക്കാളി",
+      "disease": "Early Blight",
+      "disease_ml": "ഏർളി ബ്ലൈറ്റ് (ഇല കരിച്ചിൽ)",
+      "symptoms": [
+        "Dark brown to black spots with concentric rings on older leaves (target board pattern).",
+        "Yellowing halo around leaf spots.",
+        "Premature defoliation starting from lower canopy."
+      ],
+      "symptoms_ml": [
+        "താഴത്തെ ഇലകളിൽ കറുത്ത വളയങ്ങളോടു കൂടിയ പാടുകൾ കാണപ്പെടുന്നു.",
+        "പാടുകൾക്ക് ചുറ്റും ഇല മഞ്ഞനിറമാകുന്നു.",
+        "ഇലകൾ കരിഞ്ഞു കൊഴിഞ്ഞു വീഴുന്നു."
+      ],
+      "organic_remedies": [
+        "Spray 1% Bordeaux mixture or 20g Pseudomonas fluorescens per liter of water.",
+        "Remove and destroy infected lower leaves to restrict fungal spore spread.",
+        "Apply neem oil garlic emulsion (5ml neem oil + 20g crushed garlic per liter) every 10 days."
+      ],
+      "organic_remedies_ml": [
+        "ഒരു ശതമാനം ബോർഡോ മിശ്രിതം അല്ലെങ്കിൽ 20 ഗ്രാം സ്യൂഡോമോണസ് ഒരു ലിറ്റർ വെള്ളത്തിൽ കലക്കി തളിക്കുക.",
+        "രോഗബാധയുള്ള ഇലകൾ നുള്ളി നശിപ്പിക്കുക.",
+        "വേപ്പെണ്ണ വെളുത്തുള്ളി മിശ്രിതം 10 ദിവസത്തിലൊരിക്കൽ തളിക്കുക."
+      ],
+      "chemical_advisory": "For severe field infections, consult your local Krishi Bhavan officer for approved Mancozeb (2g/L) or Copper Oxychloride spray schedule.",
+      "chemical_advisory_ml": "കഠിനമായ രോഗബാധയ്ക്ക് കൃഷിഭവൻ ഉദ്യോഗസ്ഥന്റെ നിർദ്ദേശപ്രകാരം മാത്രം മാങ്കോസെബ് (2 ഗ്രാം/ലിറ്റർ) തളിക്കുക.",
+      "prevention": [
+        "Practice 3-year crop rotation avoiding Solanaceous crops.",
+        "Use drip irrigation to keep foliage dry.",
+        "Mulch the soil with dry straw to prevent soil-splashing."
+      ],
+      "prevention_ml": [
+        "വിളപരിക്രമണം പാലിക്കുക.",
+        "തുള്ളി നന ഉപയോഗിച്ച് ഇലകളിൽ വെള്ളം തങ്ങാതിരിക്കാൻ ശ്രദ്ധിക്കുക.",
+        "തടങ്ങളിൽ ഉണങ്ങിയ കരിയില കൊണ്ടു പുതയിടുക."
+      ]
+    },
+    "Tomato___Late_blight": {
+      "crop": "Tomato",
+      "crop_ml": "തക്കാളി",
+      "disease": "Late Blight",
+      "disease_ml": "ലേറ്റ് ബ്ലൈറ്റ് (വൈകിയുള്ള ഇല കരിച്ചിൽ)",
+      "symptoms": [
+        "Water-soaked dark lesions appearing rapidly on leaves and stems during cool, wet weather.",
+        "White fungal fuzz on leaf undersides in humid conditions.",
+        "Rapid rotting of green and ripe fruit."
+      ],
+      "symptoms_ml": [
+        "തണുപ്പും ഈർപ്പവുമുള്ള കാലാവസ്ഥയിൽ ഇലകളിലും തണ്ടുകളിലും കറുത്ത പാടുകൾ പടരുന്നു.",
+        "ഇലയുടെ അടിഭാഗത്ത് വെളുത്ത പൂപ്പൽ കാണപ്പെടുന്നു.",
+        "കായ്കൾ പെട്ടെന്ന് അഴുകി നശിക്കുന്നു."
+      ],
+      "organic_remedies": [
+        "Spray Trichoderma viride or Pseudomonas (20g/L) as a protective bio-fungicide.",
+        "Ensure excellent air circulation and prune dense foliage."
+      ],
+      "organic_remedies_ml": [
+        "20 ഗ്രാം സ്യൂഡോമോണസ് അല്ലെങ്കിൽ ട്രൈക്കോഡെർമ തളിക്കുക.",
+        "തക്കാളി ചെടികൾ തമ്മിൽ നല്ല വായുസഞ്ചാരം ഉറപ്പാക്കുക."
+      ],
+      "chemical_advisory": "Contact local agricultural department for recommended Metalaxyl + Mancozeb formulations during high-humidity outbreaks.",
+      "chemical_advisory_ml": "കൂടുതൽ രോഗബാധയുണ്ടെങ്കിൽ കൃഷി അസിസ്റ്റന്റിന്റെ ഉപദേശത്തോടെ മാത്രം നിർദ്ദിഷ്ട കുമിൾനാശിനി ഉപയോഗിക്കുക.",
+      "prevention": [
+        "Plant certified resistant varieties.",
+        "Avoid overhead sprinkler irrigation."
+      ],
+      "prevention_ml": [
+        "രോഗപ്രതിരോധശേഷിയുള്ള ഇനങ്ങൾ തിരഞ്ഞെടുക്കുക.",
+        "ഇലകളിൽ നേരിട്ട് വെള്ളമൊഴിക്കുന്നത് ഒഴിവാക്കുക."
+      ]
+    },
+    "Tomato___healthy": {
+      "crop": "Tomato",
+      "crop_ml": "തക്കാളി",
+      "disease": "Healthy Plant",
+      "disease_ml": "ആരോഗ്യമുള്ള ചെടി",
+      "symptoms": [
+        "Vibrant green foliage with no discoloration or necrotic spots.",
+        "Sturdy stem and normal leaf structure."
+      ],
+      "symptoms_ml": [
+        "ഇലകളിൽ പാടുകളോ മഞ്ഞനിറമോ ഇല്ലാതെ തിളക്കമുള്ള പച്ചനിറം.",
+        "ആരോഗ്യമുള്ള തണ്ടും ഇലകളും."
+      ],
+      "organic_remedies": [
+        "Maintain routine organic nutrient management (enriched compost and vermicompost).",
+        "Apply preventive organic bio-agents like Pseudomonas monthly."
+      ],
+      "organic_remedies_ml": [
+        "കൃത്യമായ ജൈവവള പ്രയോഗം (ചാണകം, മണ്ണിരവളം) തുടരുക.",
+        "പ്രതിമാസം സ്യൂഡോമോണസ് തളിച്ചു നൽകുന്നത് രോഗങ്ങൾ വരുന്നത് തടയും."
+      ],
+      "chemical_advisory": "No chemical intervention needed.",
+      "chemical_advisory_ml": "രാസവളങ്ങളോ മരുന്നുകളോ ആവശ്യമില്ല.",
+      "prevention": [
+        "Regular weeding and balanced watering."
+      ],
+      "prevention_ml": [
+        "കൃത്യമായ കളപറിക്കലും മിതമായ നനയും."
+      ]
+    },
+    "Pepper__bell___Bacterial_spot": {
+      "crop": "Bell Pepper / Chilli",
+      "crop_ml": "മുളക് / പച്ചമുളക്",
+      "disease": "Bacterial Spot",
+      "disease_ml": "ബാക്ടീരിയൽ സ്പോട്ട് (ബാക്ടീരിയ പുള്ളിക്കുത്ത്)",
+      "symptoms": [
+        "Small, water-soaked, blister-like spots on leaves turning brown.",
+        "Severe leaf drop causing sunscald on developing peppers."
+      ],
+      "symptoms_ml": [
+        "ഇലകളിൽ ചെറിയ കുമിളകൾ പോലുള്ള തവിട്ടുനിറത്തിലുള്ള പുള്ളികൾ.",
+        "ഇലകൾ കൊഴിഞ്ഞു വീഴുന്നതു കാരണം മുളകുകൾക്ക് വെയിൽ ഏറ്റ് പൊള്ളൽ ഏൽക്കുന്നു."
+      ],
+      "organic_remedies": [
+        "Spray Pseudomonas fluorescens (20g/L) on leaf canopy.",
+        "Treat seeds before sowing with hot water (50°C for 25 min) or biocontrol agents."
+      ],
+      "organic_remedies_ml": [
+        "സ്യൂഡോമോണസ് 20 ഗ്രാം ഒരു ലിറ്റർ വെള്ളത്തിൽ കലക്കി ഇലകളിൽ തളിക്കുക.",
+        "വിത്തു പാകുന്നതിനു മുൻപ് ജീവാണു ലായനിയിൽ പരിചരിക്കുക."
+      ],
+      "chemical_advisory": "Copper-based bactericides may be applied under expert agricultural supervision.",
+      "chemical_advisory_ml": "കൃഷി ഓഫീസറുടെ ഉപദേശപ്രകാരം മാത്രം കോപ്പർ അടങ്ങിയ മരുന്നുകൾ പ്രയോഗിക്കുക.",
+      "prevention": [
+        "Do not work in fields when leaves are wet.",
+        "Purchase disease-free certified hybrid seeds."
+      ],
+      "prevention_ml": [
+        "ഇലകൾ നനഞ്ഞിരിക്കുമ്പോൾ കളപറിക്കലും മറ്റും ഒഴിവാക്കുക.",
+        "ഗുണമേന്മയുള്ള വിത്തുകൾ മാത്രം ഉപയോഗിക്കുക."
+      ]
+    },
+    "Pepper__bell___healthy": {
+      "crop": "Bell Pepper / Chilli",
+      "crop_ml": "മുളക് / പച്ചമുളക്",
+      "disease": "Healthy Plant",
+      "disease_ml": "ആരോഗ്യമുള്ള ചെടി",
+      "symptoms": [
+        "Lush green leaves, upright growth, no lesions."
+      ],
+      "symptoms_ml": [
+        "നല്ല പച്ചനിറമുള്ള ആരോഗ്യകരമായ ഇലകൾ."
+      ],
+      "organic_remedies": [
+        "Top-dress with neem cake (വേപ്പിൻ പിണ്ണാക്ക്) and cow dung slurry."
+      ],
+      "organic_remedies_ml": [
+        "വേപ്പിൻ പിണ്ണാക്കും ചാണകപ്പാലും തടത്തിൽ നൽകുക."
+      ],
+      "chemical_advisory": "No chemicals needed.",
+      "chemical_advisory_ml": "മരുന്നുകൾ ആവശ്യമില്ല.",
+      "prevention": [
+        "Maintain adequate drainage."
+      ],
+      "prevention_ml": [
+        "നീർവാർച്ച ഉറപ്പാക്കുക."
+      ]
+    },
+    "Potato___Early_blight": {
+      "crop": "Potato",
+      "crop_ml": "ഉരുളക്കിഴങ്ങ്",
+      "disease": "Early Blight",
+      "disease_ml": "ഏർളി ബ്ലൈറ്റ്",
+      "symptoms": [
+        "Concentric ring brown lesions on lower potato foliage.",
+        "Tubers may develop dark sunken dry rot."
+      ],
+      "symptoms_ml": [
+        "ഇലകളിൽ വളയങ്ങളോടുകൂടിയ കറുത്ത പാടുകൾ കാണപ്പെടുന്നു."
+      ],
+      "organic_remedies": [
+        "Spray 1% Bordeaux mixture at 15-day intervals.",
+        "Ensure balanced soil organic matter."
+      ],
+      "organic_remedies_ml": [
+        "1% ബോർഡോ മിശ്രിതം 15 ദിവസത്തെ ഇടവേളയിൽ തളിക്കുക."
+      ],
+      "chemical_advisory": "Consult agronomy field staff for Mancozeb 75% WP recommendations.",
+      "chemical_advisory_ml": "കൃഷി ഓഫീസറുടെ ഉപദേശത്തോടെ മാത്രം അനുയോജ്യമായ കുമിൾനാശിനി ഉപയോഗിക്കുക.",
+      "prevention": [
+        "Maintain proper plant spacing for sun exposure."
+      ],
+      "prevention_ml": [
+        "ചെടികൾ തമ്മിൽ ആവശ്യത്തിന് അകലം പാലിക്കുക."
+      ]
+    },
+    "Potato___Late_blight": {
+      "crop": "Potato",
+      "crop_ml": "ഉരുളക്കിഴങ്ങ്",
+      "disease": "Late Blight",
+      "disease_ml": "ലേറ്റ് ബ്ലൈറ്റ്",
+      "symptoms": [
+        "Dark green water-soaked spots enlarging rapidly to purplish-black.",
+        "Severe field collapse in continuous cloudy moist weather."
+      ],
+      "symptoms_ml": [
+        "തണുപ്പുള്ള മഴക്കാലത്ത് ഇലകൾ കരിഞ്ഞു നശിക്കുന്നു."
+      ],
+      "organic_remedies": [
+        "Spray Copper hydroxide / Bordeaux mixture prophylactically before rainy periods."
+      ],
+      "organic_remedies_ml": [
+        "മഴക്കാലത്തിന് മുന്നോടിയായി ബോർഡോ മിശ്രിതം തളിക്കുക."
+      ],
+      "chemical_advisory": "Seek guidance from horticulture officers for systemic fungicide timing.",
+      "chemical_advisory_ml": "കൃഷി ഉദ്യോഗസ്ഥന്റെ നിർദ്ദേശപ്രകാരം കുമിൾനാശിനി പ്രയോഗിക്കുക.",
+      "prevention": [
+        "Plant certified disease-free tubers."
+      ],
+      "prevention_ml": [
+        "രോഗമില്ലാത്ത വിത്തു കിഴങ്ങുകൾ ഉപയോഗിക്കുക."
+      ]
+    },
+    "Potato___healthy": {
+      "crop": "Potato",
+      "crop_ml": "ഉരുളക്കിഴങ്ങ്",
+      "disease": "Healthy Plant",
+      "disease_ml": "ആരോഗ്യമുള്ള ചെടി",
+      "symptoms": [
+        "Normal canopy development, dark green leaves."
+      ],
+      "symptoms_ml": [
+        "ആരോഗ്യമുള്ള ഇലകൾ."
+      ],
+      "organic_remedies": [
+        "Earthing up soil around base to protect growing tubers."
+      ],
+      "organic_remedies_ml": [
+        "ചെടിയുടെ ചുവട്ടിൽ മണ്ണ് കൂട്ടി കൊടുക്കുക."
+      ],
+      "chemical_advisory": "No chemicals needed.",
+      "chemical_advisory_ml": "മരുന്നുകൾ ആവശ്യമില്ല.",
+      "prevention": [
+        "Monitor for aphids regularly."
+      ],
+      "prevention_ml": [
+        "കീടബാധ ശ്രദ്ധിക്കുക."
+      ]
+    },
+    "Rice___Leaf_Blast": {
+      "crop": "Rice / Paddy",
+      "crop_ml": "നെല്ല്",
+      "disease": "Leaf Blast (Magnaporthe oryzae)",
+      "disease_ml": "ഇലക്കരിച്ചിൽ / ബ്ലാസ്റ്റ് രോഗം",
+      "symptoms": [
+        "Spindle-shaped spots with grey or whitish centers and dark brown margins.",
+        "Lesions coalesce causing whole leaf desiccation (burnt appearance)."
+      ],
+      "symptoms_ml": [
+        "ഇലകളിൽ തോണിയുടെ ആകൃതിയിൽ നടുക്ക് വെളുത്തതും വശങ്ങളിൽ തവിട്ടുനിറമുള്ളതുമായ പാടുകൾ.",
+        "പാടുകൾ കൂടിചേർന്ന് ഇലകൾ മൊത്തത്തിൽ കരിഞ്ഞുപോകുന്നു."
+      ],
+      "organic_remedies": [
+        "Seed treatment with Pseudomonas fluorescens (10g/kg seed).",
+        "Foliar spray of Pseudomonas (20g/L) or Panchagavya (3%) at tillering and panicle initiation."
+      ],
+      "organic_remedies_ml": [
+        "ഒരു കിലോ നെൽവിത്തിന് 10 ഗ്രാം സ്യൂഡോമോണസ് ചേർത്ത് വിത്തുചികിത്സ നടത്തുക.",
+        "സ്യൂഡോമോണസ് (20 ഗ്രാം/ലിറ്റർ) അല്ലെങ്കിൽ പഞ്ചഗവ്യം (3%) ഇലകളിൽ തളിക്കുക."
+      ],
+      "chemical_advisory": "If blast exceeds threshold, consult Krishi Bhavan for Tricyclazole 75 WP (0.6g/L) or Isoprothiolane (1.5ml/L).",
+      "chemical_advisory_ml": "രോഗം കൂടുതലാണെങ്കിൽ കൃഷി ഓഫീസറുടെ നിർദ്ദേശപ്രകാരം ട്രൈസൈക്ലസോൾ തളിക്കുക.",
+      "prevention": [
+        "Avoid excess Nitrogen fertilizer application; apply in split doses.",
+        "Burn or compost infected crop stubbles after harvest."
+      ],
+      "prevention_ml": [
+        "യൂറിയ (നൈട്രജൻ) അധികമായി ഉപയോഗിക്കാതിരിക്കുക; ഘട്ടംഘട്ടമായി നൽകുക.",
+        "കൊയ്ത്തിന് ശേഷം വൈക്കോലും അവശിഷ്ടങ്ങളും കൃത്യമായി സംസ്കരിക്കുക."
+      ]
+    },
+    "Rice___healthy": {
+      "crop": "Rice / Paddy",
+      "crop_ml": "നെല്ല്",
+      "disease": "Healthy Crop",
+      "disease_ml": "ആരോഗ്യമുള്ള നെൽച്ചെടി",
+      "symptoms": [
+        "Uniform green tillers, clean panicles, erect healthy leaf blades."
+      ],
+      "symptoms_ml": [
+        "നല്ല പച്ചനിറമുള്ള ചിനപ്പുകളും ആരോഗ്യമുള്ള ഇലകളും."
+      ],
+      "organic_remedies": [
+        "Maintain water level of 2-5 cm during vegetative and reproductive stages.",
+        "Apply bio-fertilizers like Azospirillum and Phosphobacteria."
+      ],
+      "organic_remedies_ml": [
+        "പാടത്ത് 2-5 സെ.മീ വെള്ളം നിലനിർത്തുക.",
+        "അസോസ്പൈറില്ലം, ഫോസ്ഫോബാക്ടീരിയ എന്നീ ജൈവവളങ്ങൾ നൽകുക."
+      ],
+      "chemical_advisory": "No chemicals needed.",
+      "chemical_advisory_ml": "മരുന്നുകൾ ആവശ്യമില്ല.",
+      "prevention": [
+        "Alternate wetting and drying (AWD) water management."
+      ],
+      "prevention_ml": [
+        "കൃത്യമായ ജലനിയന്ത്രണം പാലിക്കുക."
+      ]
+    },
+    "Banana___Sigatoka_Leaf_Spot": {
+      "crop": "Banana / Plantain",
+      "crop_ml": "വാഴ",
+      "disease": "Sigatoka Leaf Spot",
+      "disease_ml": "സിഗറ്റോക്ക ഇലപ്പുള്ളി രോഗം",
+      "symptoms": [
+        "Yellowish-green streaks on leaves, enlarging into dark brown elliptical spots with grey centers.",
+        "Leaves dry out prematurely, reducing bunch size and causing premature ripening."
+      ],
+      "symptoms_ml": [
+        "ഇലകളിൽ മഞ്ഞ കലർന്ന പച്ചവരകൾ പിന്നീട് തവിട്ടുനിറമുള്ള പാടുകളായി മാറുന്നു.",
+        "ഇലകൾ നേരത്തെ ഉണങ്ങി നശിക്കുകയും വാഴക്കുലയുടെ ഭാരം കുറയുകയും ചെയ്യുന്നു."
+      ],
+      "organic_remedies": [
+        "Prune and burn badly infected leaves.",
+        "Spray 1% Bordeaux mixture or Mineral oil emulsified with Pseudomonas (20g/L).",
+        "Apply cow urine garlic emulsion (1:10 dilution)."
+      ],
+      "organic_remedies_ml": [
+        "രോഗം ബാധിച്ച ഇലകൾ മുറിച്ചുമാറ്റി നശിപ്പിക്കുക.",
+        "1% ബോർഡോ മിശ്രിതം അല്ലെങ്കിൽ സ്യൂഡോമോണസ് തളിക്കുക.",
+        "ഗോമൂത്രം - വെളുത്തുള്ളി ലായനി തളിച്ചു നൽകുക."
+      ],
+      "chemical_advisory": "For severe outbreaks, consult Kerala Agricultural University (KAU) advisory for Propiconazole / Carbendazim spray rotation.",
+      "chemical_advisory_ml": "രോഗം പടരുകയാണെങ്കിൽ കൃഷി ഓഫീസറുടെ ഉപദേശപ്രകാരം പ്രൊപ്പിക്കോണസോൾ തളിക്കുക.",
+      "prevention": [
+        "Ensure proper spacing (2m x 2m for Nendran) to allow sunshine into canopy.",
+        "Maintain proper field drainage during southwest and northeast monsoons."
+      ],
+      "prevention_ml": [
+        "വാഴകൾ തമ്മിൽ കൃത്യമായ അകലം (2 x 2 മീറ്റർ) നൽകി വെയിൽ കിട്ടാൻ സൗകര്യമൊരുക്കുക.",
+        "മഴക്കാലത്ത് തോട്ടത്തിൽ വെള്ളക്കെട്ട് ഒഴിവാക്കാൻ ചാലുകൾ കീറുക."
+      ]
+    },
+    "Coconut___Bud_Rot": {
+      "crop": "Coconut",
+      "crop_ml": "തെങ്ങ്",
+      "disease": "Bud Rot (Phytophthora palmivora)",
+      "disease_ml": "കൂമ്പുചീയൽ രോഗം",
+      "symptoms": [
+        "Central spindle leaf turns yellow, withers, and dries up.",
+        "Base of the spindle rots with a foul smell and can be easily pulled out."
+      ],
+      "symptoms_ml": [
+        "തെങ്ങിന്റെ കൂമ്പ് മഞ്ഞളിച്ച് ഉണങ്ങിപ്പോകുന്നു.",
+        "കൂമ്പിന്റെ അടിഭാഗം ചീഞ്ഞ് ദുർഗന്ധം വമിക്കുകയും പെട്ടെന്ന് ഊരിപ്പോരുകയും ചെയ്യുന്നു."
+      ],
+      "organic_remedies": [
+        "Cut and remove all infected rotten tissues from the crown.",
+        "Apply 10% Bordeaux paste or a mixture of Copper Oxychloride + lime paste to the cleaned bud region.",
+        "Place perforated polythene sachet containing 5g Mancozeb / bio-agent on top leaf axils as preventive."
+      ],
+      "organic_remedies_ml": [
+        "ചീഞ്ഞ ഭാഗങ്ങൾ പൂർണ്ണമായി ചെത്തിമാറ്റി വൃത്തിയാക്കുക.",
+        "വൃത്തിയാക്കിയ ഭാഗത്ത് ബോർഡോ കുഴമ്പ് പുരട്ടുക.",
+        "ഓലക്കവിളുകളിൽ കുമിൾനാശിനി കിഴികൾ വെക്കുക."
+      ],
+      "chemical_advisory": "Contact CPCRI / Krishi Bhavan officer for emergency crown fungicide treatment before monsoons.",
+      "chemical_advisory_ml": "മഴക്കാലത്തിന് മുൻപായി കൃഷിഭവന്റെ സഹായത്തോടെ മുൻകരുതൽ ചികിത്സ നടത്തുക.",
+      "prevention": [
+        "Prophylactic spraying of 1% Bordeaux mixture on coconut crowns in May-June before South-West monsoon."
+      ],
+      "prevention_ml": [
+        "ഇടവപ്പാതിക്ക് മുൻപായി മെയ്-ജൂൺ മാസങ്ങളിൽ 1% ബോർഡോ മിശ്രിതം കൂമ്പിൽ തളിക്കുക."
+      ]
+    }
+  }
+}
